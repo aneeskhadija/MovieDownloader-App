@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_dialog_theme.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\my_dialog_theme.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_searchwhite.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\searchwhite.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_latest_movie.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\fragment_latest_movie.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_download_desc.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\download_desc.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buttonstyle.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\buttonstyle.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_movie_list_view.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\movie_list_view.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_adele.jpg.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\adele.jpg"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\anim_uptodown.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\anim\\uptodown.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchwhite.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable\\searchwhite.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_borderprogressbar.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\borderprogressbar.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\anim_downtoup.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\anim\\downtoup.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popular_movies.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\fragment_popular_movies.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_detail_.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\activity_movie_detail_.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_search.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\activity_movie_search.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_spaceullustration.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\spaceullustration.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\MovieDownloader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark.xml.flat",
+        "source": "D:\\Soft_Tech\\MovieDownloader\\app\\src\\main\\res\\drawable\\ic_bookmark.xml"
+    }
+]

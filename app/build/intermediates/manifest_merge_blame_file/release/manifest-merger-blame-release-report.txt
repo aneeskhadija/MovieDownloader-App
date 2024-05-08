@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:5:5-67
+11-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:6:5-79
+12-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:8:5-33:19
+15        android:allowBackup="true"
+15-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.0] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\881ed38d8f80da7a88cb010386d80aa8\core-1.3.0\AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:13:9-35
+21        android:theme="@style/AppTheme"
+21-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:14:9-40
+22        android:usesCleartextTraffic="true" >
+22-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:15:9-44
+23        <activity android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.Activities.MovieSearch" />
+23-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:16:9-122
+23-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:16:19-110
+24        <activity
+24-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:17:9-19:66
+25            android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.Activities.MovieDetail_Activity"
+25-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:18:13-113
+26            android:theme="@style/Theme.AppCompat.NoActionBar" />
+26-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:19:13-63
+27        <activity
+27-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:20:9-23:59
+28            android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.Activities.HomeActivity"
+28-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:21:13-105
+29            android:label="@string/title_activity_home"
+29-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:22:13-56
+30            android:theme="@style/AppTheme.NoActionBar" />
+30-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:23:13-56
+31        <activity
+31-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:24:9-32:20
+32            android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.MainActivity"
+32-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:25:13-94
+33            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+33-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:26:13-72
+34            <intent-filter>
+34-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:27:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:28:17-69
+35-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:28:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:30:17-77
+37-->F:\Play Store\Povty Droid\Movie Downloader\Source code\Movie Downloader\app\src\main\AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:15:9-19:75
+41            android:name="com.facebook.ads.AudienceNetworkActivity"
+41-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:16:13-68
+42            android:configChanges="keyboardHidden|orientation|screenSize"
+42-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:17:13-74
+43            android:exported="false"
+43-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:18:13-37
+44            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+44-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:19:13-72
+45
+46        <provider
+46-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:21:9-24:40
+47            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+47-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:22:13-75
+48            android:authorities="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.AudienceNetworkContentProvider"
+48-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:23:13-82
+49            android:exported="false" />
+49-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\4c44de88f9c9f01061c84e32b1a7d7c2\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:24:13-37
+50
+51        <meta-data
+51-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\423445c5ef87e0ebaeaa9844b074355d\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
+52            android:name="com.google.android.gms.version"
+52-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\423445c5ef87e0ebaeaa9844b074355d\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65
+53            android:value="@integer/google_play_services_version" />
+53-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sony\.gradle\caches\transforms-2\files-2.1\423445c5ef87e0ebaeaa9844b074355d\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
+54    </application>
+55
+56</manifest>

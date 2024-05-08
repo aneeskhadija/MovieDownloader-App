@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movie Downloader</string>
+    <string name="app_title_main_page">Movie Download</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">fragment1</string>
+    <string name="hello_blank_fragment">fragment2</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_section1">Popular</string>
+    <string name="title_section2">Latest</string>
+    <string name="tab_text_1">Latest Movies</string>
+    <string name="tab_text_2">Popular Movies</string>
+
+    <string name="content_description_movie_image">Movie Image</string>
+    <string name="content_description_movie_poster">Movie Poster Image</string>
+    <string name="content_movie_title">---</string>
+    <string name="content_movie_details">00:00:00</string>
+    <string name="rent">0.00</string>
+    <string name="buy">0.00</string>
+    <string name="content_description_add_playlist">Add to watchlist</string>
+    <string name="content_download_title">0.00</string>
+    <string name="content_description_title">Description: </string>
+    <string name="template_movie_description">...</string>
+</resources>

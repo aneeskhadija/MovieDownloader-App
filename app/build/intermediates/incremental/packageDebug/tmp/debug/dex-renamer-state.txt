@@ -1,0 +1,4 @@
+#Mon Aug 24 09:55:49 PKT 2020
+base.0=D\:\\Povty Droid\\Movie Downloader\\Source code\\Movie Downloader\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

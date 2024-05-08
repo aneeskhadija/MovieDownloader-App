@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:8:5-34:19
+15        android:allowBackup="true"
+15-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.0] C:\Users\Anees\.gradle\caches\transforms-3\2303cc69431259f62e3662d6b50d816d\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme"
+23-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:14:9-40
+24        android:usesCleartextTraffic="true" >
+24-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:15:9-44
+25        <activity android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.Activities.MovieSearch" />
+25-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:16:9-122
+25-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:16:19-110
+26        <activity
+26-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:17:9-19:66
+27            android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.Activities.MovieDetail_Activity"
+27-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:18:13-113
+28            android:theme="@style/Theme.AppCompat.NoActionBar" />
+28-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:19:13-63
+29        <activity
+29-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:20:9-23:59
+30            android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.Activities.HomeActivity"
+30-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:21:13-105
+31            android:label="@string/title_activity_home"
+31-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:22:13-56
+32            android:theme="@style/AppTheme.NoActionBar" />
+32-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:23:13-56
+33        <activity
+33-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:24:9-33:20
+34            android:name="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.MainActivity"
+34-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:25:13-94
+35            android:exported="true"
+35-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:27:13-36
+36            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+36-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:26:13-72
+37            <intent-filter>
+37-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:28:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:29:17-69
+38-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:31:17-77
+40-->D:\Soft_Tech\MovieDownloader\app\src\main\AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:15:9-19:75
+44            android:name="com.facebook.ads.AudienceNetworkActivity"
+44-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:16:13-68
+45            android:configChanges="keyboardHidden|orientation|screenSize"
+45-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:17:13-74
+46            android:exported="false"
+46-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:18:13-37
+47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+47-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:19:13-72
+48
+49        <provider
+49-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:21:9-24:40
+50            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+50-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:22:13-75
+51            android:authorities="com.povtdroid.FreetorrentMovieDownloaderYTSdownloader.AudienceNetworkContentProvider"
+51-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:23:13-82
+52            android:exported="false" />
+52-->[com.facebook.android:audience-network-sdk:5.9.1] C:\Users\Anees\.gradle\caches\transforms-3\c06bd33926992713234457c84719c143\transformed\jetified-audience-network-sdk-5.9.1\AndroidManifest.xml:24:13-37
+53
+54        <meta-data
+54-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\Anees\.gradle\caches\transforms-3\18f3d86d18e85b86e49704bd81735dd5\transformed\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
+55            android:name="com.google.android.gms.version"
+55-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\Anees\.gradle\caches\transforms-3\18f3d86d18e85b86e49704bd81735dd5\transformed\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65
+56            android:value="@integer/google_play_services_version" />
+56-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\Anees\.gradle\caches\transforms-3\18f3d86d18e85b86e49704bd81735dd5\transformed\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
+57    </application>
+58
+59</manifest>
